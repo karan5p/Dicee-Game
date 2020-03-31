@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dicee_Game
 {
-    class Game
+    class DiceGame
     {
     }
 }

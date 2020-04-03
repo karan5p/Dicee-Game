@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Dicee_Game
 {
-    enum RollResult  //Enum which contains the resulets
+    enum RollResult  //Enum which contains the results
     {
         Win,
         Lose,
